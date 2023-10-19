@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-(https://wonder-rabbit.com/v3/images/about.jpg)
+[image](https://wonder-rabbit.com/v3/images/about.jpg)
 
 That's right. We're a company that makes tools that help virtual creators. In fact, we’ve been doing this since **December 26th, 2022**. Helping technology and art come together to create more wonderful works, creating a fair sea of creation that does not have a disadvantageous and unreasonable process in the process. 🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
 
