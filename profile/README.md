@@ -1,50 +1,33 @@
 ## Hey, this is us 👋
 
-[image](https://wonder-rabbit.com/v3/images/about.jpg)
+![image](https://wonder-rabbit.com/v3/images/about.jpg)
 
-That's right. We're a company that makes tools that help virtual creators. In fact, we’ve been doing this since **December 26th, 2022**. Helping technology and art come together to create more wonderful works, creating a fair sea of creation that does not have a disadvantageous and unreasonable process in the process. 🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
+That's right. We're a company that makes tools that help virtual creators. In fact, we’ve been doing this since **December 26th, 2022**. Helping technology and art come together to create more wonderful works, creating a fair sea of creation that does not have a disadvantageous and unreasonable process in the process. 🪐.
 
-### 🍿 An interconnected community
+### 🍿 유기적으로 연결된 커뮤니티
 
-The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
+원더래빗은 버추얼 크리에이터와 팬이 유기적으로 연결되어 라이브 스트리밍에 도움을 주고, 팬 커뮤니티의 역할을 할 수 있는 보금자리를 마련하고자 준비하고 있습니다.
 
-- [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
-- Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
-- **Every minute** a developer creates a new release 🏄 for a public project on GitHub
 
-Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
+### 🦦 환경을 위한 원더래빗의 노력
 
-### 🦦 Contributing to the ecosystem
+원더래빗은 환경을 위하여 계약부터 실행까지 가급적 적은 종이로 해결하고, 디지털 형태로의 계약과 무결성을 검증하여 확실한 콘텐츠 제작과 운영을 도모하고 있습니다.
 
-We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
+- [원더래빗 전자계약 서비스](#)
+- [원더래빗 전자인증서 서비스](#)
 
-- [GitHub CLI](https://github.com/cli/cli) - A command line tool for GitHub
-- [Git Large File Storage](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Primer](https://github.com/primer/css) - The GitHub design system
+### 📹 W-Archive
 
-### 👓 Appendix
+꼭 버추얼 크리에이터가 아니더라도, 내 방송의 아카이브를 저장하고 스태프에게 공유하기 위하여 직접 녹화하거나 품질이 좋지 않은 트위치를 직접 녹화하고 계신가요?
+원더래빗의 W-Archive는 2022년 부터 운영되어 안정성을 입증하였으며, 엔터프라이즈 서비스를 제공하여 기업 특화된 품질의 서비스도 제공하고 있습니다.
 
-See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers) 🙌.
+[이곳을 눌러 서비스에 대하여 알아보세요](https://wonder-rabbit.com/archive)
 
-<details> 
-	<summary>"Tell me more, I can't get enough!"</summary>
-	<br>
-	<ul>
-	<li>GitHub is built using mighty 🔨 open source technologies like <a href="https://github.com/rails">Ruby on Rails</a>, <a href="https://github.com/golang">Go</a>, <a href="https://github.com/primer">Primer</a>, <a href="https://github.com/reactjs">React</a> and <a href="https://github.com/apache/kafka">Kafka</a> among others.</li>
-		<li>The three open source projects GitHub members have most contributed 👩‍💻 to are:
-			<ul>
-				<li><a href="https://github.com/microsoft/vscode">Visual Studio Code</a></li>
-				<li><a href="https://github.com/rails/rails">Ruby on Rails</a></li>
-				<li><a href="https://github.com/Homebrew">Homebrew</a></li>
-			</ul>
-		</li>
-		<li>By the way, our <a href="https://github.com/github/docs">documentation</a> 🤓 is also open sourced</li>
-	</ul>
-</details>
+
 
 ---
 
-<sub>🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).</sub>
+<sub>🤫 쉿! 혹시 그거 아세요? 원더래빗은 당신을 영입할 준비가 되었다는데요?></sub>
 
 <!--
 Made with 🖤
